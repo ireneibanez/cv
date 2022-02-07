@@ -99,11 +99,23 @@ content:
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Boream
         caption: 1/2019 - 03/2019,
         sub_title: Web Develop Bootcamp (640 horas)
-  
+      - layout: center
+        title: Universidad de Murcia
+        caption: 1/2013 - 09/2013,
+        sub_title: Máster Universitario en Nutrición y Seguridad Alimentaria.
+      - layout: center
+        title: Universidad de Cádiz
+        caption: 9/2011 - 6/2012,
+        sub_title: Máster Universitario en Acuicultura y Pesca: recursos marinos y sostenibilidad.
+      - layout: center
+        title: Universidad de Cádiz
+        caption: 9/2004 - 6/2011,
+        sub_title: Doble Licenciatura en Ciencias del Mar y Ciencias Ambientales.
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
