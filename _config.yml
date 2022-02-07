@@ -46,15 +46,21 @@ linkedin_username: irene-ibanez-martinez
 
 # About Section
 about_title: Sobre mí
-about_profile_image: images/Irene.jpg
+about_profile_image: images/Ire.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Soy una científica que ha descubierto una nueva pasión: el desarrollo web. 
+  Soy ambientóloga, científica marina y desarrolladora web. Me encantaría encontrar un reto interesante que aunara mis dos pasiones, el medio ambiente y la sostenibilidad y el desarrollo web.
 
   La mayoría de mis conocimientos y experiencia giran en torno al frontend: <mark>Typescript/Javascript</mark>, <mark>Angular</mark>, <mark>HTML</mark> y <mark>CSS</mark>.
   
-  He trabajado también con <mark>Ionic</mark> y he usado <mark>BEM</mark> como patrón organizativo. Estoy acostumbrada a trabajar con metodología ágiles, <mark>SCRUM</mark> y <mark>Kanban</mark>, utilizando <mark>Jira</mark> y <mark>Git-Flow</mark> para organizar tareas y código. La revisión de código para mí es algo indispensable, y creo firmemente que una buena sesión de pair programming puede ser muy efectiva y rápida para solucionar problemas o bloqueos.
+  He trabajado también con <mark>Ionic</mark> y he usado <mark>BEM</mark> como patrón organizativo. 
+  
+  Estoy acostumbrada a trabajar con metodología ágiles, <mark>SCRUM</mark> y <mark>Kanban</mark>, utilizando <mark>Jira</mark> y <mark>Git-Flow</mark> para organizar tareas y código. 
+  
+  La revisión de código para mí es algo indispensable, y creo firmemente que una buena sesión de pair programming puede ser muy efectiva y rápida para solucionar problemas o bloqueos.
 
   También he trabajado en la parte de testing, con tests <mark>End-To-End</mark> y con <mark>Jest</mark>.
+  
+  
   
 content:
   - title: Projects # Title for the section
