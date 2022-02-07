@@ -46,12 +46,16 @@ linkedin_username: irene-ibanez-martinez
 
 # About Section
 about_title: Sobre mí
-about_profile_image: images/profile.jpg
+about_profile_image: images/Irene.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Soy una científica que ha descubierto una nueva pasión: el desarrollo web. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  La mayoría de mis conocimientos y experiencia giran en torno al frontend: <mark>Typescript/Javascript</mark>, <mark>Angular</mark>, <mark>HTML</mark> y <mark>CSS</mark>.
+  
+  He trabajado también con <mark>Ionic</mark> y he usado <mark>BEM</mark> como patrón organizativo. Estoy acostumbrada a trabajar con metodología ágiles, <mark>SCRUM</mark> y <mark>Kanban</mark>, utilizando <mark>Jira</mark> y <mark>Git-Flow</mark> para organizar tareas y código. La revisión de código para mí es algo indispensable, y creo firmemente que una buena sesión de pair programming puede ser muy efectiva y rápida para solucionar problemas o bloqueos.
 
+  También he trabajado en la parte de testing, con tests <mark>End-To-End</mark> y con <mark>Jest</mark>.
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
